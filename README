@@ -1,0 +1,1 @@
+This code will take a PDF file called document.pdf and generate an MP3 file called audio.mp3 with the audio equivalent of the PDF's text. The MP3 file will be stored in the location specified by store_location.
