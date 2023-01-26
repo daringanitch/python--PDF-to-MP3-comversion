@@ -1,1 +1,2 @@
-This code will take a PDF file called document.pdf and generate an MP3 file called audio.mp3 with the audio equivalent of the PDF's text. The MP3 file will be stored in the location specified by store_location.
+
+This code will take a PDF file called document.pdf and generate an MP3 file. The PDF file is specified by the pdf_file parameter, the name of the output MP3 file is specified by the mp3_file parameter, and the location to store the MP3 file is specified by the store_location parameter.
